@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 리엑트 게시판 : https://react.qooo.io (https://github.com/sundoforce/jump-to-flask)
-- flask 게시판 : https://flask.qooo.io (https://github.com/sundoforce/react-blog)
+- 리엑트 게시판 : https://react.qooo.io (https://github.com/sundoforce/react-blog)
+- flask 게시판 : https://flask.qooo.io (https://github.com/sundoforce/jump-to-flask)
 - go SCRAPPER : https://learngo.qooo.io (https://github.com/sundoforce/learngo)
 
 <!--
