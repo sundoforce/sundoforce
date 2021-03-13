@@ -3,7 +3,7 @@
 - 워드프레스: https://blog.sundo.kim 
 - 리엑트 게시판: https://react.qooo.io (https://github.com/sundoforce/react-blog)
 - flask 게시판: https://flask.qooo.io (https://github.com/sundoforce/jump-to-flask)
-- go SCRAPPER: https://learngo.qooo.io (https://github.com/sundoforce/learngo)
+<!-- - go SCRAPPER: https://learngo.qooo.io (https://github.com/sundoforce/learngo) -->
 - AWS 운영: 뮤지아 https://muzia.net
 - 홈서버 운영: 온공사 https://ongongsa.com 
 
